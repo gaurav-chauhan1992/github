@@ -1,31 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Test-Suite name="UiPath Project - Test Automation" total="4" passed="4" failures="0" execution-date="09/06/2020 17:17:05" total-time="00:00:21">
+<Test-Suite name="UiPath Project - Test Automation" total="5" passed="5" failures="0" execution-date="09/07/2020 17:50:47" total-time="00:00:45">
   <Result>
-    <TestScenario>Verify the login page launched successfully</TestScenario>
+    <TestScenario>SCENARIO_1: Verify the login page launched successfully</TestScenario>
     <TestName>Hackathon</TestName>
-    <Started>09/06/2020 17:17:04</Started>
-    <Ended>09/06/2020 17:17:05</Ended>
+    <Started>09/07/2020 17:50:46</Started>
+    <Ended>09/07/2020 17:50:47</Ended>
     <Status>PASSED</Status>
   </Result>
   <Result>
-    <TestScenario>Verify customer is able to register successfully</TestScenario>
+    <TestScenario>SCENARIO_2: Verify customer is able to register successfully</TestScenario>
     <TestName>Hackathon</TestName>
-    <Started>09/06/2020 17:17:05</Started>
-    <Ended>09/06/2020 17:17:11</Ended>
+    <Started>09/07/2020 17:50:47</Started>
+    <Ended>09/07/2020 17:50:55</Ended>
     <Status>PASSED</Status>
   </Result>
   <Result>
-    <TestScenario>Verify customer is able to login successfully</TestScenario>
+    <TestScenario>SCENARIO_3: Verify customer is able to login successfully</TestScenario>
     <TestName>Hackathon</TestName>
-    <Started>09/06/2020 17:17:11</Started>
-    <Ended>09/06/2020 17:17:14</Ended>
+    <Started>09/07/2020 17:50:55</Started>
+    <Ended>09/07/2020 17:50:58</Ended>
     <Status>PASSED</Status>
   </Result>
   <Result>
-    <TestScenario>Verify user is able to submit the reviews &amp; ratings</TestScenario>
+    <TestScenario>SCENARIO_4: Verify user is able to submit the reviews &amp; ratings</TestScenario>
     <TestName>Hackathon</TestName>
-    <Started>09/06/2020 17:17:14</Started>
-    <Ended>09/06/2020 17:17:25</Ended>
+    <Started>09/07/2020 17:50:58</Started>
+    <Ended>09/07/2020 17:51:15</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>SCENARIO_5: Verify user get appropriate message on giving duplicate review</TestScenario>
+    <TestName>Hackathon</TestName>
+    <Started>09/07/2020 17:51:15</Started>
+    <Ended>09/07/2020 17:51:31</Ended>
     <Status>PASSED</Status>
   </Result>
 </Test-Suite>
