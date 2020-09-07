@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="4" passed="4" failures="0" execution-date="09/06/2020 17:17:05" total-time="00:00:21">
+  <Result>
+    <TestScenario>Verify the login page launched successfully</TestScenario>
+    <TestName>Hackathon</TestName>
+    <Started>09/06/2020 17:17:04</Started>
+    <Ended>09/06/2020 17:17:05</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Verify customer is able to register successfully</TestScenario>
+    <TestName>Hackathon</TestName>
+    <Started>09/06/2020 17:17:05</Started>
+    <Ended>09/06/2020 17:17:11</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Verify customer is able to login successfully</TestScenario>
+    <TestName>Hackathon</TestName>
+    <Started>09/06/2020 17:17:11</Started>
+    <Ended>09/06/2020 17:17:14</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Verify user is able to submit the reviews &amp; ratings</TestScenario>
+    <TestName>Hackathon</TestName>
+    <Started>09/06/2020 17:17:14</Started>
+    <Ended>09/06/2020 17:17:25</Ended>
+    <Status>PASSED</Status>
+  </Result>
+</Test-Suite>
